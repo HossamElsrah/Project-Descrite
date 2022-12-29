@@ -1,0 +1,8 @@
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\bin\Debug\Project descrite 1.exe.config
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\bin\Debug\Project descrite 1.exe
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\bin\Debug\Project descrite 1.pdb
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\obj\Debug\Project descrite 1.csproj.AssemblyReference.cache
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\obj\Debug\Project descrite 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\obj\Debug\Project descrite 1.csproj.CoreCompileInputs.cache
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\obj\Debug\Project descrite 1.exe
+C:\Users\hpc\source\repos\TASK 1\Project descrite 1\Project descrite 1\obj\Debug\Project descrite 1.pdb
